@@ -1,0 +1,26 @@
+body {
+	background-color: black;
+}
+
+#header {
+	color: orangered;
+	font-family: 'Creepster', cursive;
+	font-size: 36px;
+	font-weight: normal;
+	margin-left: 15px;
+}
+
+img {
+	width: 30%;
+	height: 290px;
+	float: left;
+	margin: 1.66%;
+  	object-fit: cover;
+
+}
+
+#headerline {
+	border-top: 3px solid orangered;
+}
+
+
